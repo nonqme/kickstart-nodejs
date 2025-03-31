@@ -11,13 +11,10 @@ Here’s what you’ll find in this repository:
 1. **Node.js with TypeScript**  
    A boilerplate for projects that require type safety and scalability using TypeScript.
 
-2. **Node.js with JavaScript**  
-   A straightforward template for projects using plain JavaScript.
-
-3. **CLI (Command-Line Interface)**  
+2. **CLI (Command-Line Interface)**  
    A starting point for building CLI tools with Node.js.
 
-4. **Plugin Development**  
+3. **Plugin Development**  
    A template for creating Node.js plugins.
 
 ## Notes 📝
