@@ -33,7 +33,7 @@
   },
   "lint-staged": {
     "**/*": [
-      "esint .",
+      "eslint .",
       "prettier --write"
     ]
   }
