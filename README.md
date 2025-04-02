@@ -1,18 +1,45 @@
-# Kickstart Node.js
+# TypeScript Boilerplate
 
-🚧 Work in Progress 🚧
-
-Welcome to **Kickstart Node.js**! This repository is a collection of templates to quickly start new Node.js projects.
+🚀 Welcome to the **TypeScript Boilerplate**! This template is part of the **Kickstart Node.js** collection, designed to help you quickly start new Node.js projects with modern tools and best practices.
 
 ## What's Inside?
 
-1. **Node.js with TypeScript**  
-   A boilerplate for projects that require type safety and scalability using TypeScript.
+This boilerplate uses the following technologies and tools:
 
-   [Read more](https://github.com/nonqme/kickstart-nodejs/tree/main/typescript/)
+- **TypeScript**: For type safety and scalability.
+- **ESLint**: To ensure code quality with recommended rules.
+- **Prettier**: For consistent code formatting.
+- **Husky**: To manage Git hooks for pre-commit checks.
+- **Lint-Staged**: To run linters on staged files.
+- **TSX**: For fast TypeScript execution in development.
 
-## Notes 📝
+## Getting Started
 
-- Each template includes a dedicated README with setup instructions.
-- The goal is to keep these templates up to date and aligned with modern development practices.
-- A CLI tool is in development to help generate these templates easily.
+1. Clone the repository:
+
+   ```bash
+   git clone htps://github.com/nonqme/kickstart-nodejs.git
+   cd typescript
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the project:
+
+   ```bash
+   npm run dev
+   ```
+
+## Scripts
+
+- `start`: Starts the application in production mode.
+- `dev`: Starts the development server with hot reloading.
+- `build`: Compiles the TypeScript code into JavaScript.
+- `lint`: Runs ESLint to check for code quality issues.
+- `lint:fix`: Automatically fixes linting issues.
+- `format`: Formats the code using Prettier.
+- `prepare`: Sets up Husky hooks for pre-commit checks.
