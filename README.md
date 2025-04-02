@@ -8,16 +8,7 @@ Welcome to **Kickstart Node.js**! This repository is a collection of templates t
 
 1. **Node.js with TypeScript**  
    A boilerplate for projects that require type safety and scalability using TypeScript.
-
-## What's Planned?
-
-Here’s what you’ll find in this repository:
-
-1. **CLI (Command-Line Interface)**  
-   A starting point for building CLI tools with Node.js.
-
-2. **Plugin Development**  
-   A template for creating Node.js plugins.
+   [Read more](htttps://github.com/nonqme/kickstart-nodejs/typescript/)
 
 ## Notes 📝
 
