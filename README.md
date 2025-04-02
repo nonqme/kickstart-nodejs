@@ -8,7 +8,8 @@ Welcome to **Kickstart Node.js**! This repository is a collection of templates t
 
 1. **Node.js with TypeScript**  
    A boilerplate for projects that require type safety and scalability using TypeScript.
-   [Read more](htttps://github.com/nonqme/kickstart-nodejs/typescript/)
+
+   [Read more](https://github.com/nonqme/kickstart-nodejs/tree/main/typescript/)
 
 ## Notes 📝
 
