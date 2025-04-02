@@ -19,8 +19,8 @@ This boilerplate uses the following technologies and tools:
 1. Clone the repository:
 
    ```bash
-   git clone htps://github.com/nonqme/kickstart-nodejs.git
-   cd typescript
+   git clone https://github.com/nonqme/kickstart-nodejs.git
+   cd kickstart-nodejs 
    ```
 
 2. Install dependencies:
