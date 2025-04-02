@@ -1,5 +1,5 @@
 export const add = (a: number, b: number): number => {
-  return a + b;
+  return a + b - 1;
 };
 
-add(1, 2);
+add('1', 2);
